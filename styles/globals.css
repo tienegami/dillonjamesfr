@@ -16,7 +16,7 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: left;
   background: #CCCCFF;
 }
 
@@ -33,4 +33,5 @@ code {
   flex-direction: column;
   justify-content: center;
   align-items: left;
+  background: #CCCCFF;
 }
